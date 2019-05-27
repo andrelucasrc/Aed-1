@@ -1,0 +1,16 @@
+    1. Observe o código abaixo. Responda que valores serão escritos na tela após a execução.
+...
+    int a=5,
+         b=2;
+    troca(&a, &b);
+    printf("\n%i, %i", a, b);
+    ...
+
+void troca(int *x, int *y){
+   int aux;
+   aux= *x;
+   *x = *y;
+   *y = aux;
+}
+
+Os valores que seram escritos na tela seão 2 e 5, pois, apesar de a função troca ser void e não retornar nenhum valor, os parâmentros passados para ela são do tipo refencial o que faz com que mesmo ela não retornando consegue mudar os valores das variaves a e b.

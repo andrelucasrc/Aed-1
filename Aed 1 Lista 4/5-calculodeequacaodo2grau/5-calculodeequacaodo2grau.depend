@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551888607 source:e:\puc trabalhos\aed 1 lista 4\5-calculodeequacaodo2grau\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

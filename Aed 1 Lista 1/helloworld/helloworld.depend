@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550612305 source:e:\puc trabalhos\helloworld\main.c
+	<stdlib.h>
+	<stdio.h>
+
