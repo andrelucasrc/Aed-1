@@ -1,9 +1,0 @@
-Ola! Tudo bem?
-Os exercícios de 1 a 4 foram feitos no Code blocks e seguem a seguinte logica:
-numero do exercício-tipo do exercicio.
-ex: 1-calcularmaioremenor.
-Já os exercícios de 5 a 11 foram feitos no Terminal do Linux e seguem a seguinte logica:
-Numero do exercício.c
-ex: 5.c
-
-André Lucas Ribeiro Costa
